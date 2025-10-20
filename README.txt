@@ -12,9 +12,10 @@ The Python Lessons are meant to be refreshers, or topics that are needed to lear
 The Python Projects will use the Python Lessons to enhance your understanding and how they can be used in a program.
 
 Python Lessons in order:
-1. Variable (variable_examples.py) #Includes print introduction and examples
-2. Type Casting (typecasting_examples.py)
-3. Input (input_examples.py)
+1. Print Statements (print_examples.py)
+2. Variable (variable_examples.py) 
+3. Type Casting (typecasting_examples.py)
+4. Input (input_examples.py)
 
 Python Projects in order:
-1. MadLibs Game: (Using Python Lessons 1-3)
+1. MadLibs Game: (Using Python Lessons 1-4)
