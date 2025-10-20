@@ -12,3 +12,8 @@ verb1 = input("Enter a verb: ")
 verb2 = input("Enter another verb: ")
 integer1 = input("Enter a number: ")
 float1 = input("Enter a decimal number: ")
+
+print(f"Before I went to the {adjective1} park, I saw a {adjective2} {noun1}.")
+print(f"It reminded me of my step {noun2} who used to {verb1} all the time.")
+print(f"One day, I decided to {verb2} with them for {integer1} hours straight!")
+print(f"It was so much fun that I felt like I was flying at {float1} miles per hour!")
